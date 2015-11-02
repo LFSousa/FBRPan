@@ -1,0 +1,3 @@
+C:\Users\FilipeBR\Downloads\MyHost\FBRPan Server\FBRPan\bin\Debug\FBRPan.exe.config
+C:\Users\FilipeBR\Downloads\MyHost\FBRPan Server\FBRPan\obj\Debug\FBRPan.exe
+C:\Users\FilipeBR\Downloads\MyHost\FBRPan Server\FBRPan\obj\Debug\FBRPan.pdb

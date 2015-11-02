@@ -1,0 +1,24 @@
+c:\users\filipebr\documents\visual studio 2013\Projects\MyHost\MyHost\obj\Debug\MyHost.csprojResolveAssemblyReference.cache
+C:\Users\FilipeBR\documents\visual studio 2013\Projects\MyHost\MyHost\bin\Debug\FBRPan.exe.config
+C:\Users\FilipeBR\documents\visual studio 2013\Projects\MyHost\MyHost\bin\Debug\FBRPan.exe
+C:\Users\FilipeBR\documents\visual studio 2013\Projects\MyHost\MyHost\bin\Debug\FBRPan.pdb
+C:\Users\FilipeBR\documents\visual studio 2013\Projects\MyHost\MyHost\obj\Debug\FBRPan.exe
+C:\Users\FilipeBR\documents\visual studio 2013\Projects\MyHost\MyHost\obj\Debug\FBRPan.pdb
+C:\Users\User\Desktop\MyHost\MyHost\bin\Debug\FBRPan.exe.config
+C:\Users\User\Desktop\MyHost\MyHost\obj\Debug\FBRPan.exe
+C:\Users\User\Desktop\MyHost\MyHost\obj\Debug\FBRPan.pdb
+C:\Users\User\Desktop\MyHost\MyHost\bin\Debug\FBRPan.exe
+C:\Users\User\Desktop\MyHost\MyHost\bin\Debug\FBRPan.pdb
+C:\Users\User\Desktop\MyHost\MyHost\obj\Debug\MyHost.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyHost\MyHost\bin\Debug\FBRPan.exe.config
+C:\Users\Administrator\Desktop\MyHost\MyHost\obj\Debug\FBRPan.exe
+C:\Users\Administrator\Desktop\MyHost\MyHost\obj\Debug\FBRPan.pdb
+C:\Users\Administrator\Desktop\MyHost\MyHost\bin\Debug\FBRPan.exe
+C:\Users\Administrator\Desktop\MyHost\MyHost\bin\Debug\FBRPan.pdb
+C:\Users\Administrator\Desktop\MyHost\MyHost\obj\Debug\MyHost.csprojResolveAssemblyReference.cache
+C:\Users\FilipeBR\Downloads\MyHost\MyHost\bin\Debug\FBRPan.exe.config
+C:\Users\FilipeBR\Downloads\MyHost\MyHost\obj\Debug\FBRPan.exe
+C:\Users\FilipeBR\Downloads\MyHost\MyHost\obj\Debug\FBRPan.pdb
+C:\Users\FilipeBR\Downloads\MyHost\MyHost\bin\Debug\FBRPan.exe
+C:\Users\FilipeBR\Downloads\MyHost\MyHost\bin\Debug\FBRPan.pdb
+C:\Users\FilipeBR\Downloads\MyHost\MyHost\obj\Debug\MyHost.csprojResolveAssemblyReference.cache
